@@ -1,0 +1,21 @@
+h2 {
+    margin-top: 20px;
+  }
+  
+  table {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  td {
+    font-size: 14px;
+  }
+  
+  .actions {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .actions button {
+    margin-right: 5px;
+  }
+  
